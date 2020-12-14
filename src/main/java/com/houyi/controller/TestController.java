@@ -8,5 +8,6 @@ package com.houyi.controller;
 public class TestController {
     public static void main(String[] args) {
         System.out.println("ok");
+        System.out.println("de");
     }
 }
